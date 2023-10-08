@@ -1,2 +1,2 @@
 # panda-code-in-python
- panda-by-python
+ panda-code-in-python
